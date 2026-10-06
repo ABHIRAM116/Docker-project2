@@ -451,16 +451,3 @@ Redis Container
    |
 Visitor Counter
 ```
-
-## Next Projects
-
-```text
-Project 1 → Nginx Static Website
-Project 2 → Flask + Redis
-Project 3 → Docker Compose
-Project 4 → Flask + PostgreSQL
-Project 5 → Frontend + Backend + Database
-Project 6 → Docker Hub
-Project 7 → Docker CI/CD
-Project 8 → Docker + Kubernetes
-```
